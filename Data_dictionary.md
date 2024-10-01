@@ -71,6 +71,8 @@ EVERY STATISTIC HAS A MULTIPLIER
 # terceiramente, os dados percentuais(PER_GAME e PERCENTAGE), juntamente com a quantidade de jogos, pois demonstra o quanto aquele jogador se mantem saudavel
 # em quarto lugar, a quantidade de pontos, assistências, rebotes e anos jogados (podendo seguir uma ordem decrescente ou não)
 
+
+###### essas estatisticas devem ser revistas ######
 YRS = * 0.550
 G = * 0.650
 
