@@ -1,0 +1,7 @@
+select "nba-draft-09".YRS from "nba-draft-09"
+
+select * from "nba-draft-09"
+
+select "YRS" from "nba-draft-09"
+
+update "nba-draft-09" set "PTS" = 0 where "PTS" is null
